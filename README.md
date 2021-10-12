@@ -30,5 +30,34 @@
   <a href = "mailto:machad0.gabriel@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/machad0gabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
-</div>
+ </div>
+
+<h2 align="center">About me:</h2>    
+
+```python
+  class WhoAmI:
+ 	user = 'Gabriel Lima Machado'
+		current_edu = "University of Brasília - UnB"
+		skills = [
+				'Finance',
+				'English',
+				'French'
+			]
+	
+  		hobbies = [
+				'Gaming',
+				'Watching Anime',
+				'Martial Arts'
+				'K-Drama'
+			]
+  
+	def getCity():
+		return Brasília_Brazil()
+	
+	def Ambitions():
+		LearnKorean()
+		StartABusiness()
+		FinishMyLightNovel()
+		# Assume 10 more awesome ambitions here  ;)
+```  
+  
