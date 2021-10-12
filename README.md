@@ -52,7 +52,7 @@
 			]
   
 	def getCity():
-		return Brasília_Brazil()
+		return Brasilia_Brazil()
 	
 	def Ambitions():
 		LearnKorean()
