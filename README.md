@@ -37,7 +37,6 @@
 		skills = [
 				'Finance',
 				'English',
-				'French'
 			]
 	
   		hobbies = [
