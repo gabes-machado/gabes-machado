@@ -1,5 +1,5 @@
 <h1 align="center">Ohh, hello there stranger! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<img align="center" src="https://media.discordapp.net/attachments/659848503710842920/899481714961813544/maxresdefault2.png?width=923&height=519" width="1000">
+<img align="right" src="https://c.tenor.com/8njht0yYxAkAAAAi/touhou-lmao.gif" width="200">
 
 <h2 align="center">Tools and Technologies:</h2>  
 <div style="display: inline_block"><br>
