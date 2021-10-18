@@ -1,10 +1,5 @@
-<h1 align="center">Ohh, hello there stranger! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
-<div align="center">
-  <a href="https://github.com/gabes-machado">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
+<h1 align="center">Ohh, hello there stranger! Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<img align="center" src="https://media.discordapp.net/attachments/659848503710842920/899481714961813544/maxresdefault2.png?width=923&height=519" width="1000">
 
 <h2 align="center">Tools and Technologies:</h2>  
 <div style="display: inline_block"><br>
@@ -62,3 +57,7 @@
 		# Assume 10 more awesome ambitions here  ;)
 ```  
   
+<div align="center">
+  <a href="https://github.com/gabes-machado">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+    </div>
