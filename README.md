@@ -54,3 +54,8 @@ I have a variety of hobbies, the ones that I'm most proud of are:
 	- **watching anime**
 	- **play MOBAs**
 	
+<div align="center">
+  <a href="https://github.com/gabes-machado">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&hide_border=true&show_icons=true" alt="Gabriel Machado's github stats"></a>
+    </div>
+    
