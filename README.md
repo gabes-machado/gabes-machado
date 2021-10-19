@@ -39,20 +39,20 @@ Education: [University of Brasília](http://www.unb.br)
 
 I'm very happy that you got here and, since you arrived, I invite you to know a little more about me:
 	<br>
-- well... who are you then? <img src='https://c.tenor.com/QWfY60PuogMAAAAi/azur-lane-hobby.gif' width='50px'>
+- **well... who are you then?** <img src='https://c.tenor.com/QWfY60PuogMAAAAi/azur-lane-hobby.gif' width='50px'>
 	<br>
 as a person I define myself as a problem solver. I like to resolve puzzles and discover new things, that's what got me into tech and programming.
 	<br>
 I'm also into finance, accounting and mathematical modeling.<img src='https://c.tenor.com/jp3nDTIWZWYAAAAi/bitcoin-bittrex-global.gif' width='40px'>
 	<br>
-- what about hobbies?
+- **what about hobbies?**
 	<br>
 I have a variety of hobbies, the ones that I'm most proud of are:
-	- **martial arts**
-	- **reading and writing light novels**
-	- **learning new languages**
-	- **watching anime**
-	- **play MOBAs**
+	- martial arts
+	- reading and writing light novels
+	- learning new languages
+	- watching anime
+	- play MOBAs
 	
 <div align="center">
   <a href="https://github.com/gabes-machado">
