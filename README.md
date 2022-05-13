@@ -2,6 +2,7 @@
 	<p align="center">  <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/discord%3A-discord.gg%2FwPc8Gvh-blueviolet" target="_blank"></a> 
   	<a href = "mailto:github.ixfrq@simplelogin.co"><img src="https://img.shields.io/badge/e--mail%3A-github.ixfrq%40simplelogin.co-blue" target="_blank"></a>
 	<a href = "https://gitlab.com/anon_c0mrade"><img src="https://img.shields.io/badge/gitlab%3A-anon__c0mrade-orange"></a>
+	<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 </div>
 
 
