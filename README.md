@@ -1,8 +1,7 @@
 <div> 
 	
-<p align="center">  <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<p align="center">  <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/discord%3A-discord.gg%2FwPc8Gvh-blueviolet" target="_blank"></a> 
   <a href = "mailto:github.ixfrq@simplelogin.co"><img src="https://img.shields.io/badge/e--mail%3A-github.ixfrq%40simplelogin.co-blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/machad0gabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	
  </div>
  
