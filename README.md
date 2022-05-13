@@ -4,12 +4,12 @@
 	<a href = "https://gitlab.com/anon_c0mrade"><img src="https://img.shields.io/badge/gitlab%3A-anon__c0mrade-orange"></a>
 </div>
 
-<img align='left' src='https://c.tenor.com/8njht0yYxAkAAAAi/touhou-lmao.gif' width='120px'> 
+
 
 ### hey there! welcome to my github profile.
 
 hello there people
-i'm a **software developer** who's passionate about **GNU/Linux**, **blockchain** and **cybersecurity**. also i'm a **ai**, **machine learning** enthusiast.
+i'm a **software developer** who's passionate about **GNU/Linux**, **blockchain** and **cybersecurity**. i'm also a enthusiast of **ai**, **machine learning**, and all these math related topics.
 <br>
 
 #### <p align='center'> tools and technologies (and learning): 
