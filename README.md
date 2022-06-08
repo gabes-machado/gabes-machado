@@ -31,3 +31,4 @@ i'm a **software developer** who's passionate about **GNU/Linux**, **blockchain*
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&hide_border=true&show_icons=true" alt="Gabriel Machado's github stats"></a>
     </div>
     
+    https://www.behance.net/machadogabriel
