@@ -32,3 +32,5 @@ i'm a **software developer** who's passionate about **GNU/Linux**, **blockchain*
     </div>
     
     https://www.behance.net/machadogabriel
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wfdfztx4cjmhg3rlzrovpu3qmm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
