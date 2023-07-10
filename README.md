@@ -20,6 +20,6 @@ Image icons are sourced from https://simpleicons.org/
 
 A developer with a creative, quality-driven approach to software engineering focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. Interested in what I've made? Check out my [Projects page](#) on my website, and my [Behance](https://www.behance.net/machadogabriel) for some design work.
 
-欢迎来到我的 Github！如果你想问我一个问题，请发给我一个 LinkedIn短信😁
+欢迎来到我的 Github！如果你想问我一个问题，请发给我一个 WhatsApp 短信😁
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wfdfztx4cjmhg3rlzrovpu3qmm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wfdfztx4cjmhg3rlzrovpu3qmm&redirect=true)
