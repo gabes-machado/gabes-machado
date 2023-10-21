@@ -8,7 +8,6 @@ A developer with a creative, quality-driven approach to software engineering foc
 
 欢迎来到我的 Github！如果你想问我一个问题，请发给我一个 WhatsApp 短信😁
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wfdfztx4cjmhg3rlzrovpu3qmm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wfdfztx4cjmhg3rlzrovpu3qmm&redirect=true)
 <!--
 Image icons are sourced from https://simpleicons.org/
 -->
