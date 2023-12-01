@@ -19,11 +19,11 @@
 
 <!-- Bio section -->
 <p align="center">
-  Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative, quality-driven approach to software engineering, eletronics and artificial intelligence. Focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. <b>Interested in what I have made?</b> Check out my <b>Engineering blog</b> for projects, and my <b>Behance</b> for some design work.
+  Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative, quality-driven approach to software engineering, eletronics and artificial intelligence. Focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. <b>Interested in what I have made?</b> Check out my <a href="https://gabes-machado.github.io/"><b>Engineering blog</b></a> for projects, and my <a href="https://www.behance.net/machadogabriel"><b>Behance</b></a> for some design work.
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=5561998288252&text=Hi!%20Came%20here%20from%20Github.">Contact me!</a>
+  <a href="https://api.whatsapp.com/send?phone=5561998288252&text=Hi!%20Came%20here%20from%20Github."><b>Contact me!</b></a>
 </p>
 
 <!-- Tools section -->
