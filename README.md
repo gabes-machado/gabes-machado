@@ -1,23 +1,53 @@
+<!-- Name and sentences section -->
 <p align="center">
-  <h1>Oh hey there, didn't see you coming in. I'm Machado</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000000&center=true&vCenter=true&random=true&width=435&lines=Gabriel+Machado" alt="Typing SVG" /></a></p>
 </p>
 
-<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&show_icons=true&theme=tokyonight">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Cyber+Artisan;Artificial+Intelligence+Researcher;Eletronics+n'+Embbed+Systems;Always+learning+new+things;Full-stack+Web+and+App+Engineer" alt="Typing SVG" /></a>
+</p>
 
-A developer with a creative, quality-driven approach to software engineering focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. Interested in what I've made? Check out my [Projects page](#) on my website, and my [Behance](https://www.behance.net/machadogabriel) for some design work.
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriellmachado/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/machad0_gabriel"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-欢迎来到我的 Github！如果你想问我一个问题，请发给我一个 WhatsApp 短信😁
+<!-- Bio section -->
+<p align="center">
+  Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative, quality-driven approach to software engineering, eletronics and artificial intelligence. Focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. <b>Interested in what I have made?</b> Check out my <b>Engineering blog</b> for projects, and my <b>Behance</b> for some design work.
+</p>
 
-<!--
-Image icons are sourced from https://simpleicons.org/
--->
-<a href="https://www.linkedin.com/in/gabriellmachado/">
-  <img align="left" alt="Machado's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/gabes-machado">
-  <img align="left" alt="Machado's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=5561998288252&text=Hi!%20Came%20here%20from%20Github.">
-  <img align="left" alt="Machado's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"
-</a>
-<br/>
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5561998288252&text=Hi!%20Came%20here%20from%20Github.">Contact me!</a>
+</p>
+
+<!-- Tools section -->
+<p align="center">
+  <b>Tools<b>
+</p>
+
+<div align="center">
+    <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</div>
+</br>
+
+<!-- Stats section -->
+<p align="center">
+  <b>Stats<b>
+</p>
+
+<div align="center">
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&show_icons=true&theme=tokyonight">
+</div>
