@@ -1,5 +1,4 @@
-<!-- Name and sentences section -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gabriel+Machado;)](https://git.io/typing-svg)
+<p align="center">Gabriel Machado</p>
 
 <!-- Social icons section -->
 <p align="center">
