@@ -39,12 +39,3 @@
     <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 </br>
-
-<!-- Stats section -->
-<p align="center">
-  <b>Stats<b>
-</p>
-
-<div align="center">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&show_icons=true&theme=tokyonight">
-</div>
