@@ -1,11 +1,5 @@
 <!-- Name and sentences section -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000000&center=true&vCenter=true&random=true&width=435&lines=Gabriel+Machado" alt="Typing SVG" /></a></p>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=DevOps;Artificial+Intelligence;Always+learning+new+things;Computer+and+Network+Engineer" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gabriel+Machado;)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
