@@ -8,7 +8,7 @@
 
 <!-- Bio section -->
 <p align="center">
-  Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative, quality-driven approach to software engineering, eletronics and artificial intelligence. Focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. <b>Interested in what I have made? Check out my repos for projects, and my <a href="https://www.behance.net/machadogabriel"><b>Behance</b></a> for some design work.
+Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative, quality-driven approach to computer engineering, eletronics and artificial intelligence. Focusing in problem solving. All of this is mixed with a set of soft skills that comes from a diverse professional experience, and also from other "non-professional" experiences. <b>Interested in what I have made? Check out my repos for projects, and my <a href="https://www.behance.net/machadogabriel"><b>Behance</b></a> for some design work.
 </p>
 
 <p align="center">
