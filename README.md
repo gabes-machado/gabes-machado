@@ -33,10 +33,10 @@ Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative,
 
 ```
 
-               ________
-    __,_,     |        |
-   [_|_/      |   OK   |
-    //        |________|
+               ________________
+    __,_,     |                |
+   [_|_/      |   THANK YOU!   |
+    //        |________________|
   _//    __  /
  (_|)   |@@|
   \ \__ \--/ __
