@@ -30,3 +30,18 @@ Oh hi there, didn't see you coming in. I'm Machado. An engineer with a creative,
     <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 </br>
+
+
+#              ________________
+#   __,_,     |                |
+#  [_|_/      |   THANK YOU!   |
+#   //        |________________|
+# _//    __  /
+#(_|)   |@@|
+# \ \__ \--/ __
+#  \o__|----|  |   __
+#      \ }{ /\ )_ / _\
+#      /\__/\ \__O (__
+#     (--/\--)    \__/
+#     _)(  )(_
+#    `---''---`
