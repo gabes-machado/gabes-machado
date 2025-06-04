@@ -1,4 +1,4 @@
-<h2 align="center">Software Engineer | Platform Engineering | Developer Tooling | AI</h2>
+<h1 align="center">Software Engineer | Platform Engineering | Developer Tooling | AI</h1>
 
 <p align="center">
   Hi, I'm Machado a Software engineer with experience in platform engineering, developer experience (DevEx), and the application of AI.
