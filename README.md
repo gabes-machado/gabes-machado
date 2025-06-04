@@ -1,14 +1,7 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriellmachado/" target="_blank" rel="noopener noreferrer">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-  </a>
-  </p>
-
-<h1 align="center">Machado</h1>
-<h3 align="center">Software Engineer | Platform Engineering | Developer Tooling | AI</h3>
+<h2 align="center">Software Engineer | Platform Engineering | Developer Tooling | AI</h2>
 
 <p align="center">
-  Software engineer with experience in platform engineering, developer experience (DevEx), and the application of AI.
+  Hi, I'm Machado a Software engineer with experience in platform engineering, developer experience (DevEx), and the application of AI.
   <br />
   Focused on developing scalable systems, efficient developer tooling, and exploring practical AI (LLMs) integrations.
 </p>
