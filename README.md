@@ -1,26 +1,8 @@
-<h1 align="center">Software Engineer | Platform Engineering | Developer Tooling | AI</h1>
+<h1 align="center">Software Engineering // Platform Engineering // Developer Tooling // AI</h1>
 
 <p align="center">
-  Hi, I'm Machado a Software engineer with experience in platform engineering, developer experience (DevEx), and the application of AI.
-  <br />
-  Focused on developing scalable systems, efficient developer tooling, and exploring practical AI (LLMs) integrations.
+  Hi, I'm Machado a Software Engineer with experience in platform engineering and DevOps, developer experience (DevEx), and the application of AI. Focused on developing scalable systems, efficient developer tooling, and exploring practical AI (LLMs) integrations.
 </p>
-
----
-
-## Core Competencies
-
-* **Platform Engineering & IDP Development:** Design, development, and maintenance of Internal Developer Platforms (e.g., using Backstage.io) to improve developer workflows and infrastructure management.
-* **Developer Tooling & CLIs:** Creation of command-line interfaces and tools (BASH, Go with Cobra, Dev Containers) to automate and streamline development processes.
-* **Software Architecture:** Implementation of microservice and microfrontend architectures, applying principles such as Clean Architecture and Hexagonal Architecture.
-* **DevOps & CI/CD:** Management of CI/CD pipelines (Jenkins, GitHub Actions, ArgoCD) across Kubernetes/OpenShift, MS Azure, GCP, and on-premise environments.
-* **AI Systems Development:** Design and implementation of AI Agents, including work with multi-agent systems and integration protocols (e.g. MCP, A2A).
-
----
-
-## Current Technical Focus: AI
-
-I believe that AI and multi-agent systems will become the single and standart I/O of everything, from development to observability. My current main focus is in understanding and implementing AI Agents and integrating them to external tools, using protocols such as MCP and A2A.
 
 ---
 
@@ -37,7 +19,6 @@ I believe that AI and multi-agent systems will become the single and standart I/
   <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
   <a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-  <a href="https://cobra.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Cobra CLI"/></a> <br />
   <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/></a>
@@ -46,9 +27,7 @@ I believe that AI and multi-agent systems will become the single and standart I/
   <a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="MS Azure"/></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/></a>
-  <a href="https://backstage.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Backstage-FE5587?style=for-the-badge&logo=backstage&logoColor=white" alt="Backstage.io"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
-  <a href="https://containers.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev_Containers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Dev Containers"/></a>
 </p>
 
 ---
@@ -57,6 +36,7 @@ I believe that AI and multi-agent systems will become the single and standart I/
 
 Current areas of continued learning and application:
 
+* Software Engineering, developing high availability and scalable systems.
 * Advanced AI Agent development and integration methodologies.
 * Observability, monitoring, and FinOps within distributed systems.
 
