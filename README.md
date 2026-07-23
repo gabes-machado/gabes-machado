@@ -46,16 +46,13 @@ Current areas of continued learning and application:
 
 Software Engineer - Banco do Brasil:
 
-As a Software Engineer on the Platform Engineering Team at **Banco do Brasil** (LATAM's largest bank), responsibilities include the development of the bank's Internal Developer Platform and various developer tools. This role involves work with microservices, microfrontends, CI/CD pipelines, and cloud technologies (Azure, GCP, OpenShift), aiming to improve developer experience and operational efficiency.
+As a Software Engineer on the Platform Engineering Team at **Banco do Brasil** (LATAM's second largest bank), responsibilities include the development of the bank's Internal Developer Platform and various developer tools. This role involves work with microservices, microfrontends, CI/CD pipelines, and cloud technologies (Azure, GCP, OpenShift), aiming to improve developer experience and operational efficiency.
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriellmachado/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> &nbsp;
   <a href="mailto:gabesmaxado@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a> &nbsp;
@@ -65,7 +62,8 @@ As a Software Engineer on the Platform Engineering Team at **Banco do Brasil** (
 </p>
 
 <p align="center">
-  <i>Open to discussing relevant professional engagements. For detailed career history, refer to LinkedIn.</i>
+  <i>Open to discussing relevant professional engagements. For detailed career history, refer to my </i>
+  <a href="https://gabes-machado.github.io/">personal website</a>
 </p>
 
 ---
